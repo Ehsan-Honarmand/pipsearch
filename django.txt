@@ -1,0 +1,100 @@
+django-bagou (0.1.0)              - Django Websocket for Django
+django-maro (0.0.2)               - `django-maro` is utility for django.
+django-ide (0.0.5)                - A Django app to develop Django apps
+django-hooked (0.1.7)             - WebHooks for Django and Django Rest Framework.
+django-six (1.0.4)                - Django-six &#8212;&#8212; Django Compatibility Library
+django-umanage (1.1.1)            - Django user management app for django
+django-mailwhimp (0.1)            - django-mailwhimp integrates mailchimp into Django
+django-jackal (1.6.7)             - Boilerplate for Django and Django REST Framework
+django-nadmin (0.1.0)             - django nadmin support django version 1.8 based on django-xadmin
+django-pinba (1.3.0)              - django pinba
+django-crudviewset (0.1.2)        - Django CRUDViewSet
+django-listings (0.1)             - django-listings
+django-optionsfield (0.2)         - django-optionsfield
+django-collage (1.0.1)            - django collages
+django-stachoutils (3.0.1)        - Commons for Django
+django-intenumfield (1.4.0)       - An IntEnumField for Django
+django-djikiki (1.1)              - A django wiki
+django-user (0.2.1)               - Django User
+django-uuidfield (0.5.0)          - UUIDField in Django
+django-utils (0.0.2)              - Utilities for Django
+django-acserv (0.6.1)             - acserv for django
+django-pagination (1.0.7)         - django-pagination
+django-chess (0.2.1)              - Django Chess
+django-templatecomponents (0.03)  - django-templatecomponents
+django-cepfield (0.2.0)           - Django CepField
+django-microblogging (0.1.2)      - django-microblogging
+django-paginate (0.3.1)           - Django Paginate
+sense-django (0.2.19)             - sense django
+django-handlebars (0.1)           - Handlebars for Django
+django-funserver (1.0)            - FUNserver for Django
+django-concepts (0.7.2)           - django-concepts
+django-events (0.1)               - django-events
+django-vouchers (0.6)             - Vouchers in Django
+django-freebase (0.1dev)          - Freebasing in Django.
+django-nextpage (1.0.1)           - django-nextpage
+django-mako (0.1.3)               - Django Mako
+django-coffee (0.0.4)             - Django Coffee
+django-pipstatus (0.1.3)          - Django pipstatus
+django-more (0.2.6)               - Django with more
+django-icons (0.2.1)              - Icons for Django
+django-wysiwyg (0.8.0)            - django-wysiwyg
+django-bitfield (1.9.3)           - BitField in Django
+django-userproperty (1.0.8)       - django userproperty
+django-plugins (0.3.0)            - django-plugins.
+django-formfield (0.4)            - django-formfield
+django-unixdatetimefield (0.1.6)  - UnixDateTimeField in Django
+django-extensions (2.1.5)         - Extensions for Django
+django-mailformer (0.0.1)         - Django Mailformer
+django-alerts (0.5.1)             - Django alerts
+diy-django (1.3.1)                - diy-django
+django-shares (0.0.1)             - Sharing for django
+django-thumbnail (11.13)          - Thumbnailing in Django
+django-stopwatch (0.2)            - Django Stopwatch
+django-moat (0.1.1)               - django-moat
+django-masquerade (1.3)           - django-masquerade
+django-projectname (1.0.0)        - django projectname
+django-narrative (0.5.9)          - Django narrative
+django-jsonschema2 (0.2.1)        - Django JSONSchema
+django-alive (1.0.1)              - Healtchecks for Django
+django-alipay2 (0.13.3)           - alipay for django
+django-flow (1.0.3)               - Django flow
+django-paypal2 (1.0.2)            - paypal for django
+django-progress (1.0.4)           - Django Progress
+django-docviewer (0.4)            - documentcloud for django
+django-profiling (0.1)            - Django Profiling
+django-humans (0.1)               - Django Humans
+django-keychain (0.0.1)           - Django Keychain
+django-purls (0.3)                - django-purls
+django-edumetadata (0.7)          - django-edumetadata
+django-sendgrid (1.0.1)           - django-sendgrid
+django-pagebase (0.4.1)           - Pages for Django
+django-mesh (0.1.0)               - A Django blog.
+django-polyfield (0.1.0)          - Django Polyfield
+django-poll (0.3.1)               - Django Poll
+django-sekizai (0.10.0)           - Django Sekizai
+django-localcrawler (0.1.1)       - django-localcrawler
+django-sections (0.1)             - django-sections
+django-groot (0.1.1)              - Django Groot
+django-sendcloud2 (0.2.1)         - sendcloud2 for django
+meistr-django (1.11.25)           - meistr-django
+django-sape (0.2.4)               - Django + sape.ru.
+django-micro (1.7.2)              - Django as a microframework
+django-callback (0.6.1)           - Django Callback
+django-sae (0.2.1)                - for django in sae
+django-uri (1.0.2)                - Django URI
+django-glitter (0.2.10)           - Glitter for Django
+django-tcms (0.1.11)              - Django tCMS.
+django-mariposa (0.1)             - django-mariposa
+django-esutils (0.3)              - Django Esutils.
+django-brevisurl (2.0.3)          - django-brevisurl is django app for shortening urls
+django-pybrowscap (1.0.0)         - django-pybrowscap is django middleware with support for pybrowscap
+django-eth (0.2.6)                - Ethereum utilities for Django and Django Rest projects
+django-perm (2.5.0)               - Class based Django permissions for Django models.
+django-postit (0.3)               - django-postit is a scrumboard application for django projects
+django-attachments (1.3.1)        - django-attachments is generic Django application to attach '
+django-livewatch (0.3.0)          - django-livewatch integrates livewatch.de for django projects
+django-bittersweet (1.0.0)        - Selected Django utilities from django-sugar
+django-simplemde (0.1.3)          - django-simplemde is a WYSIWYG markdown editor for Django
+django-rosetta (0.9.1)            - A Django application that eases the translation of Django projects
+django-pjax (1.4)                 - Django-PJAX: The Django helper for jQuery-PJAX.
