@@ -3,8 +3,8 @@
 # os: win
 py -m pip search 'module'
 
-hi,enter the name of module for pip search & save data with format txt in your directory
-search over --> type end
+hi,enter the name of module for pip search & save data with format txt in your directory\n
+search over --> type end\n
 
 example:
         search for ? django
