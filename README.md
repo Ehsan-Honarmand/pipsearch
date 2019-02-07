@@ -11,6 +11,6 @@ example:
         search for ? jdatetime
         search for ? end
 output:
-        django.txt
-        jdatetime.txt
+        [django.txt]
+        [jdatetime.txt]
         
